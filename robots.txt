@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Lab3_Test/page1.html
+Disallow: /Lab3_Test/page2.html
